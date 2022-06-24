@@ -11,3 +11,4 @@ https://www.harisqazi.com/privilege-escalation/ (my cheat sheet of the THM PrivE
 https://tryhackme.com/room/linprivesc
 https://guide.offsecnewbie.com/cherrytree-oscp-template
 https://book.hacktricks.xyz/
+https://tryhackme.com/room/windowsprivesc20
